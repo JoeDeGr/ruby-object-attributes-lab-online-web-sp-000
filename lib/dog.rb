@@ -1,16 +1,16 @@
 
 class Dog
   def name=(doggy)
-    @me = doggy
+    @name = doggy
   end
   def name
-    @me
+    @name
   end
-  def breed=(heritage)
-    @liniage = heritage
+  def breed=(liniage)
+    @breed = liniage
   end
   def breed
-    @liniage
+    @breed
   end
 end
 
