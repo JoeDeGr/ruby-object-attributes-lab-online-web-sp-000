@@ -12,3 +12,4 @@ class Person
   def job
     @over_broke
   end
+end
