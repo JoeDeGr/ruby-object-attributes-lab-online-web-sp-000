@@ -1,15 +1,16 @@
 
 class Person
   def name=(me)
-    @me=me
+    @name=me
   end
   def name
-    @me
+    @name
   end
   def job=(work)
-    @over_broke = work
+    @job = work
   end
   def job
-    @over_broke
+    @job
+    
   end
 end
